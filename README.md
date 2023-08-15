@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sandip Sarkar
+### Hi there 👋 UPPALAPATI NAGA DURGA PRASAD
 
   <h2 size="20">Full Stack Web Developer</h2>
     <p></p>
@@ -93,7 +93,7 @@
 
 
  <h2 size="20">Socials</h2>
-  <a href="https://www.linkedin.com/in/sarkar-sandip/" target="blank">
+  <a href="https://www.linkedin.com/in/naga-durga-prasad-uppalapati/" target="blank">
       <img
         src="https://img.icons8.com/color/48/null/linkedin.png"
         align="center"
@@ -101,7 +101,7 @@
         width="50"
       />
     </a>
-    <a href="https://www.instagram.com/the_sandip___/" target="blank">
+    <a href="https://www.linkedin.com/in/naga-durga-prasad-uppalapati/" target="blank">
       <img
         src="https://img.icons8.com/fluency/48/null/instagram-new.png"
         align="center"
@@ -109,7 +109,7 @@
         width="50"
       />
     </a>
-    <a href="https://portfolio-psi-three-60.vercel.app/" target="blank">
+    <a href="https://www.linkedin.com/in/naga-durga-prasad-uppalapati/" target="blank">
       <img
         src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
         align="center"
@@ -120,8 +120,7 @@
 
 
 
-<!--
-**SandipNITA2025/SandipNITA2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
